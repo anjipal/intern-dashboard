@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  background: #eef;
+  margin: 0;
+  padding: 2rem;
+}
+
+.dashboard {
+  background: white;
+  padding: 2rem;
+  border-radius: 10px;
+  max-width: 500px;
+  margin: auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.rewards {
+  margin-top: 2rem;
+}
+
+.rewards ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.rewards li {
+  background: #eef;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
